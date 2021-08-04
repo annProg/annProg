@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 👀 I am interested in ITSM & DevOps.
 - 🌱 I’m currently study Golang.
 
-[![Ann's github stats](https://github-readme-stats.vercel.app/api?username=annProg)](https://github.com/annProg)
+[![Ann's github stats](https://github-readme-stats.vercel.app/api?username=annProg&show_icons=true&theme=dark)](https://github.com/annProg)
