@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👀 I'm interested in ITSM & DevOps.
+- 👀 I'm interested in ITSM & DevOps and familiar with ITIL implementation based on iTop
 - 🌱 I’m currently study Golang.
 - 🎮 I'm player of AOEⅡDE/Civ6/Go(Weiqi) 
 
