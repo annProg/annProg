@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 👀 I'm interested in ITSM & DevOps and familiar with ITIL implementation based on iTop
 - 🌱 I’m currently study Golang.
-- 🎮 I'm player of AOEⅡDE/Civ6/Go(Weiqi) 
+- 🎮 I'm player of AOEⅡDE/Civ6/Go(Weiqi)/ETS2 
 
 [![Ann's github stats](https://github-readme-stats.vercel.app/api?username=annProg&show_icons=true&theme=bear)](https://github.com/annProg)
